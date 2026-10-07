@@ -129,6 +129,14 @@
       "de": "fernando.poza@last.app"
     },
     {
+      "nombre": "Turnos",
+      "url": "https://care.internal-apps.last.app/turnoff/",
+      "programa": "",
+      "desc": "",
+      "familia": "Equipo",
+      "de": "fernando.poza@last.app"
+    },
+    {
       "nombre": "Gmail",
       "url": "https://mail.google.com/",
       "programa": "",
@@ -157,14 +165,6 @@
       "url": "https://cliq.zoho.eu/company/20069817554/index.do",
       "programa": "",
       "desc": "Chat interno",
-      "familia": "Equipo",
-      "de": "fernando.poza@last.app"
-    },
-    {
-      "nombre": "Turnos",
-      "url": "https://care.internal-apps.last.app/turnoff/",
-      "programa": "",
-      "desc": "",
       "familia": "Equipo",
       "de": "fernando.poza@last.app"
     },
@@ -208,5 +208,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-07T08:58:55.136Z"
+  "actualizada": "2026-10-07T09:05:00.105Z"
 }
