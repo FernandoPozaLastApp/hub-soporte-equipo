@@ -89,22 +89,6 @@
       "de": "fernando.poza@last.app"
     },
     {
-      "nombre": "Google",
-      "url": "https://www.google.com/",
-      "programa": "",
-      "desc": "",
-      "familia": "Soporte",
-      "de": "fernando.poza@last.app"
-    },
-    {
-      "nombre": "Calendar",
-      "url": "https://calendar.google.com/",
-      "programa": "",
-      "desc": "Agenda del día",
-      "familia": "Reuniones",
-      "de": "fernando.poza@last.app"
-    },
-    {
       "nombre": "Meet Front",
       "url": "https://meet.google.com/mzd-kfsn-how?authuser=0",
       "programa": "",
@@ -118,30 +102,6 @@
       "programa": "",
       "desc": "Citas y huecos reservables",
       "familia": "Reuniones",
-      "de": "fernando.poza@last.app"
-    },
-    {
-      "nombre": "Meet",
-      "url": "https://meet.google.com/home",
-      "programa": "",
-      "desc": "Abre una sala nueva al momento",
-      "familia": "Reuniones",
-      "de": "fernando.poza@last.app"
-    },
-    {
-      "nombre": "Gmail",
-      "url": "https://mail.google.com/",
-      "programa": "",
-      "desc": "Correo",
-      "familia": "Equipo",
-      "de": "fernando.poza@last.app"
-    },
-    {
-      "nombre": "Drive",
-      "url": "https://drive.google.com/",
-      "programa": "",
-      "desc": "Documentos compartidos",
-      "familia": "Equipo",
       "de": "fernando.poza@last.app"
     },
     {
@@ -183,6 +143,46 @@
       "desc": "",
       "familia": "Integraciones",
       "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Drive",
+      "url": "https://drive.google.com/",
+      "programa": "",
+      "desc": "Documentos compartidos",
+      "familia": "Google",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Gmail",
+      "url": "https://mail.google.com/",
+      "programa": "",
+      "desc": "Correo",
+      "familia": "Google",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Meet",
+      "url": "https://meet.google.com/home",
+      "programa": "",
+      "desc": "Abre una sala nueva al momento",
+      "familia": "Google",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Calendar",
+      "url": "https://calendar.google.com/",
+      "programa": "",
+      "desc": "Agenda del día",
+      "familia": "Google",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Google",
+      "url": "https://www.google.com/",
+      "programa": "",
+      "desc": "",
+      "familia": "Google",
+      "de": "fernando.poza@last.app"
     }
   ],
   "descargas": [
@@ -208,5 +208,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-07T09:05:30.984Z"
+  "actualizada": "2026-10-07T09:06:21.688Z"
 }
