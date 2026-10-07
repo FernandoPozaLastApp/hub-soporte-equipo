@@ -1,5 +1,11 @@
 {
   "version": 1,
   "aviso": "Lo escribe el Hub de soporte. Cifrado: no hay nada legible aquí.",
-  "llaves": {}
+  "llaves": {
+    "895d2e90": {
+      "iv": "rI3oOrvn8tpRqdUK",
+      "datos": "RaX5OgrIk/Fc4dmduR6udtJu46Z8rw452PS6rRxNcJY1y5DOvtJ2AovBu3nFGN41tQx/4EWycwHPYjt0/Grw5duq3/4sRlP7ou1fhDY+klr8WeXcGjf1H0DwinUke9r1VjCQXvy1HyvLKsvGi+LdZhWeAyeMwaR9SX3VXKmBXIizZvo=",
+      "tag": "8gz44/aZcab7vsESoYB+YQ=="
+    }
+  }
 }
