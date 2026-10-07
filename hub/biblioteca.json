@@ -1,0 +1,212 @@
+{
+  "herramientas": [
+    {
+      "nombre": "Ringover",
+      "url": "https://app.ringover.com/inbox",
+      "programa": "",
+      "desc": "Centralita: llamadas, historial y grabaciones",
+      "familia": "Llamadas",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Ringover · Dashboard",
+      "url": "https://dashboard.ringover.com/currentscalls",
+      "programa": "",
+      "desc": "Volumen de llamadas, tiempos de espera y perdidas",
+      "familia": "Llamadas",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "AnyDesk",
+      "url": "anydesk:",
+      "programa": "C:/Users/Usuario/Desktop/anydesk-5-5-3.exe",
+      "desc": "Control remoto del equipo del cliente (abre el programa)",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Mis tickets",
+      "url": "https://desk.last.app/agent/lastapp/support/tickets/q/duedate/all-cases",
+      "programa": "",
+      "desc": "Solo lo que tienes asignado y abierto",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Whatsapp",
+      "url": "https://desk.last.app/agent/lastapp/support/im/page#IM/-1/sessions/all-all",
+      "programa": "",
+      "desc": "",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Help",
+      "url": "https://help.last.app/",
+      "programa": "",
+      "desc": "Artículos de ayuda para pegar al cliente",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "CRM",
+      "url": "https://crm.zoho.eu/crm/last/search?searchword=",
+      "programa": "",
+      "desc": "Ficha del cliente, plan contratado y contactos",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Support",
+      "url": "https://support.last.app/",
+      "programa": "",
+      "desc": "Back-office para mirar la cuenta del local",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Learn",
+      "url": "https://learn.last.app/team/last-cx",
+      "programa": "",
+      "desc": "",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Datadog",
+      "url": "https://app.datadoghq.eu/logs",
+      "programa": "",
+      "desc": "",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Reportes",
+      "url": "https://care.internal-apps.last.app/technical-support/reportes",
+      "programa": "",
+      "desc": "",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Google",
+      "url": "https://www.google.com/",
+      "programa": "",
+      "desc": "",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Calendar",
+      "url": "https://calendar.google.com/",
+      "programa": "",
+      "desc": "Agenda del día",
+      "familia": "Reuniones",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Meet Front",
+      "url": "https://meet.google.com/mzd-kfsn-how?authuser=0",
+      "programa": "",
+      "desc": "",
+      "familia": "Reuniones",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Bookings",
+      "url": "https://bookings.zoho.eu/",
+      "programa": "",
+      "desc": "Citas y huecos reservables",
+      "familia": "Reuniones",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Meet",
+      "url": "https://meet.google.com/home",
+      "programa": "",
+      "desc": "Abre una sala nueva al momento",
+      "familia": "Reuniones",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Gmail",
+      "url": "https://mail.google.com/",
+      "programa": "",
+      "desc": "Correo",
+      "familia": "Equipo",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Drive",
+      "url": "https://drive.google.com/",
+      "programa": "",
+      "desc": "Documentos compartidos",
+      "familia": "Equipo",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "People",
+      "url": "https://people.zoho.eu/",
+      "programa": "",
+      "desc": "",
+      "familia": "Equipo",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Cliq",
+      "url": "https://cliq.zoho.eu/company/20069817554/index.do",
+      "programa": "",
+      "desc": "Chat interno",
+      "familia": "Equipo",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Turnos",
+      "url": "https://care.internal-apps.last.app/turnoff/",
+      "programa": "",
+      "desc": "",
+      "familia": "Equipo",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Gemini IA",
+      "url": "https://gemini.google.com/app",
+      "programa": "",
+      "desc": "",
+      "familia": "IA",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Glovo",
+      "url": "https://docs.google.com/spreadsheets/d/1YesG3izxIDzDh54qsBNbPhTe8qSpfzY67EcYjAK2fso/edit?gid=1609757291#gid=1609757291",
+      "programa": "",
+      "desc": "",
+      "familia": "Integraciones",
+      "de": "fernando.poza@last.app"
+    }
+  ],
+  "descargas": [
+    {
+      "nombre": "Last.app Windows",
+      "url": "https://install.last.app/windows",
+      "nota": "",
+      "apartado": "Programa",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Utilidades",
+      "url": "https://drive.google.com/drive/folders/1Lsc5W3MldEmShs1xMphW9RT7PBBv-30h?usp=sharing",
+      "nota": "",
+      "apartado": "General",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Drivers",
+      "url": "https://drive.google.com/drive/folders/1t4jhlaIxUrqwRmuaIvBzPDQIZeQk22qj?usp=sharing",
+      "nota": "",
+      "apartado": "General",
+      "de": "fernando.poza@last.app"
+    }
+  ],
+  "actualizada": "2026-10-07T08:58:55.136Z"
+}
