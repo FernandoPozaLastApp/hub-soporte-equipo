@@ -1,0 +1,262 @@
+{
+  "version": 1791363624174,
+  "publicado": "2026-10-07T09:00:24.174Z",
+  "publicadoPor": "fernando.poza@last.app",
+  "catalogo": {
+    "titulo": "Hub de soporte",
+    "_nota": "Edita este fichero, o hazlo desde Ajustes dentro de la app. Las entradas con \"comprobar\": true llevan una URL que hay que verificar; \"interno\" marca las pantallas propias de la app.",
+    "grupos": [
+      {
+        "nombre": "Llamadas",
+        "enlaces": [
+          {
+            "nombre": "Ringover",
+            "url": "https://app.ringover.com/inbox",
+            "desc": "Centralita: llamadas, historial y grabaciones",
+            "compartida": true
+          },
+          {
+            "nombre": "Ringover · Dashboard",
+            "url": "https://dashboard.ringover.com/currentscalls",
+            "desc": "Volumen de llamadas, tiempos de espera y perdidas",
+            "compartida": true
+          },
+          {
+            "nombre": "Notas",
+            "interno": "notas",
+            "desc": "Tablero de notas por columnas, dentro de la app"
+          }
+        ]
+      },
+      {
+        "nombre": "Soporte",
+        "enlaces": [
+          {
+            "nombre": "Software y drivers",
+            "interno": "descargas",
+            "desc": "Programas y drivers de uso habitual, con sus enlaces de Drive"
+          },
+          {
+            "nombre": "AnyDesk",
+            "url": "anydesk:",
+            "desc": "Control remoto del equipo del cliente (abre el programa)",
+            "programa": "C:/Users/Usuario/Desktop/anydesk-5-5-3.exe",
+            "compartida": true
+          },
+          {
+            "nombre": "Mis tickets",
+            "url": "https://desk.last.app/agent/lastapp/support/tickets/q/duedate/all-cases",
+            "desc": "Solo lo que tienes asignado y abierto",
+            "compartida": true
+          },
+          {
+            "nombre": "Whatsapp",
+            "url": "https://desk.last.app/agent/lastapp/support/im/page#IM/-1/sessions/all-all",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Help",
+            "url": "https://help.last.app/",
+            "desc": "Artículos de ayuda para pegar al cliente",
+            "compartida": true
+          },
+          {
+            "nombre": "CRM",
+            "url": "https://crm.zoho.eu/crm/last/search?searchword=",
+            "desc": "Ficha del cliente, plan contratado y contactos",
+            "compartida": true
+          },
+          {
+            "nombre": "Support",
+            "url": "https://support.last.app/",
+            "desc": "Back-office para mirar la cuenta del local",
+            "compartida": true
+          },
+          {
+            "nombre": "Learn",
+            "url": "https://learn.last.app/team/last-cx",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Datadog",
+            "url": "https://app.datadoghq.eu/logs",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Reportes",
+            "url": "https://care.internal-apps.last.app/technical-support/reportes",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Google",
+            "url": "https://www.google.com/",
+            "desc": "",
+            "compartida": true
+          }
+        ]
+      },
+      {
+        "nombre": "Reuniones",
+        "enlaces": [
+          {
+            "nombre": "Calendar",
+            "url": "https://calendar.google.com/",
+            "desc": "Agenda del día",
+            "compartida": true
+          },
+          {
+            "nombre": "Meet Front",
+            "url": "https://meet.google.com/mzd-kfsn-how?authuser=0",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Bookings",
+            "url": "https://bookings.zoho.eu/",
+            "desc": "Citas y huecos reservables",
+            "compartida": true
+          },
+          {
+            "nombre": "Meet",
+            "url": "https://meet.google.com/home",
+            "desc": "Abre una sala nueva al momento",
+            "compartida": true
+          }
+        ]
+      },
+      {
+        "nombre": "Equipo",
+        "enlaces": [
+          {
+            "nombre": "Gmail",
+            "url": "https://mail.google.com/",
+            "desc": "Correo",
+            "compartida": true
+          },
+          {
+            "nombre": "Drive",
+            "url": "https://drive.google.com/",
+            "desc": "Documentos compartidos",
+            "compartida": true
+          },
+          {
+            "nombre": "People",
+            "url": "https://people.zoho.eu/",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Cliq",
+            "url": "https://cliq.zoho.eu/company/20069817554/index.do",
+            "desc": "Chat interno",
+            "compartida": true
+          },
+          {
+            "nombre": "Turnos",
+            "url": "https://care.internal-apps.last.app/turnoff/",
+            "desc": "",
+            "compartida": true
+          }
+        ]
+      },
+      {
+        "nombre": "IA",
+        "enlaces": [
+          {
+            "nombre": "Gemini IA",
+            "url": "https://gemini.google.com/app",
+            "desc": "",
+            "compartida": true
+          }
+        ]
+      },
+      {
+        "nombre": "Integraciones",
+        "enlaces": [
+          {
+            "nombre": "Glovo",
+            "url": "https://docs.google.com/spreadsheets/d/1YesG3izxIDzDh54qsBNbPhTe8qSpfzY67EcYjAK2fso/edit?gid=1609757291#gid=1609757291",
+            "desc": "",
+            "compartida": true
+          }
+        ]
+      }
+    ],
+    "jornadas": [
+      {
+        "nombre": "Abrir jornada",
+        "desc": "Lo que abres cada mañana",
+        "enlaces": [
+          "Zoho Desk",
+          "Ringover",
+          "Zoho Cliq",
+          "Gmail",
+          "Google Calendar"
+        ]
+      },
+      {
+        "nombre": "Atender llamada",
+        "desc": "Lo que necesitas con el cliente al teléfono",
+        "enlaces": [
+          "Ringover",
+          "Zoho Desk",
+          "Zoho CRM",
+          "Support"
+        ]
+      }
+    ],
+    "acciones": [
+      {
+        "nombre": "Abrir ticket #{q}",
+        "patron": "^#?[0-9]{2,8}$",
+        "url": "https://desk.last.app/agent/tickets/details/{q}",
+        "comprobar": true
+      },
+      {
+        "nombre": "Buscar «{q}» en Desk",
+        "patron": ".",
+        "url": "https://desk.last.app/agent/search?searchStr={q}",
+        "comprobar": true
+      },
+      {
+        "nombre": "Buscar «{q}» en Gmail",
+        "patron": ".",
+        "url": "https://mail.google.com/mail/u/0/#search/{q}"
+      },
+      {
+        "nombre": "Llamar a {q}",
+        "patron": "^[+0-9][0-9 ()-]{6,}$",
+        "url": "tel:{q}"
+      },
+      {
+        "nombre": "Contacto «{q}» en CRM",
+        "patron": "@",
+        "url": "https://crm.zoho.eu/crm/org/search?searchword={q}",
+        "comprobar": true
+      }
+    ],
+    "plantillas": [
+      {
+        "nombre": "Saludo inicial",
+        "texto": "Hola, soy del equipo de soporte de Last.app. He recibido tu mensaje y lo estoy revisando ahora mismo."
+      },
+      {
+        "nombre": "Pedir acceso remoto",
+        "texto": "Para verlo contigo en directo, ¿puedes abrir AnyDesk y pasarme el número de 9 dígitos que aparece en pantalla? Solo veré lo que me muestres y puedes cortar la sesión cuando quieras."
+      },
+      {
+        "nombre": "Escalar a producto",
+        "texto": "Lo he pasado al equipo de producto porque necesita una revisión técnica. Te escribo en cuanto tenga respuesta; el ticket queda abierto mientras tanto."
+      },
+      {
+        "nombre": "Cierre",
+        "texto": "Cierro el ticket por aquí. Si vuelve a pasar, responde a este mismo correo y se reabre con todo el histórico."
+      }
+    ],
+    "turnos": false
+  }
+}
