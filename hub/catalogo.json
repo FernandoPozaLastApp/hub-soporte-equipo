@@ -1,6 +1,6 @@
 {
-  "version": 1791363624174,
-  "publicado": "2026-10-07T09:00:24.174Z",
+  "version": 1791387320808,
+  "publicado": "2026-10-07T15:35:20.808Z",
   "publicadoPor": "fernando.poza@last.app",
   "catalogo": {
     "titulo": "Hub de soporte",
@@ -90,24 +90,12 @@
             "url": "https://care.internal-apps.last.app/technical-support/reportes",
             "desc": "",
             "compartida": true
-          },
-          {
-            "nombre": "Google",
-            "url": "https://www.google.com/",
-            "desc": "",
-            "compartida": true
           }
         ]
       },
       {
         "nombre": "Reuniones",
         "enlaces": [
-          {
-            "nombre": "Calendar",
-            "url": "https://calendar.google.com/",
-            "desc": "Agenda del día",
-            "compartida": true
-          },
           {
             "nombre": "Meet Front",
             "url": "https://meet.google.com/mzd-kfsn-how?authuser=0",
@@ -119,30 +107,12 @@
             "url": "https://bookings.zoho.eu/",
             "desc": "Citas y huecos reservables",
             "compartida": true
-          },
-          {
-            "nombre": "Meet",
-            "url": "https://meet.google.com/home",
-            "desc": "Abre una sala nueva al momento",
-            "compartida": true
           }
         ]
       },
       {
         "nombre": "Equipo",
         "enlaces": [
-          {
-            "nombre": "Gmail",
-            "url": "https://mail.google.com/",
-            "desc": "Correo",
-            "compartida": true
-          },
-          {
-            "nombre": "Drive",
-            "url": "https://drive.google.com/",
-            "desc": "Documentos compartidos",
-            "compartida": true
-          },
           {
             "nombre": "People",
             "url": "https://people.zoho.eu/",
@@ -180,6 +150,41 @@
           {
             "nombre": "Glovo",
             "url": "https://docs.google.com/spreadsheets/d/1YesG3izxIDzDh54qsBNbPhTe8qSpfzY67EcYjAK2fso/edit?gid=1609757291#gid=1609757291",
+            "desc": "",
+            "compartida": true
+          }
+        ]
+      },
+      {
+        "nombre": "Google",
+        "enlaces": [
+          {
+            "nombre": "Drive",
+            "url": "https://drive.google.com/",
+            "desc": "Documentos compartidos",
+            "compartida": true
+          },
+          {
+            "nombre": "Gmail",
+            "url": "https://mail.google.com/",
+            "desc": "Correo",
+            "compartida": true
+          },
+          {
+            "nombre": "Meet",
+            "url": "https://meet.google.com/home",
+            "desc": "Abre una sala nueva al momento",
+            "compartida": true
+          },
+          {
+            "nombre": "Calendar",
+            "url": "https://calendar.google.com/",
+            "desc": "Agenda del día",
+            "compartida": true
+          },
+          {
+            "nombre": "Google",
+            "url": "https://www.google.com/",
             "desc": "",
             "compartida": true
           }
