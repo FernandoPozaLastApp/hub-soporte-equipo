@@ -1,6 +1,6 @@
 {
-  "version": 1791387320808,
-  "publicado": "2026-10-07T15:35:20.808Z",
+  "version": 1791497390073,
+  "publicado": "2026-10-08T22:09:50.073Z",
   "publicadoPor": "fernando.poza@last.app",
   "catalogo": {
     "titulo": "Hub de soporte",
@@ -242,6 +242,11 @@
         "patron": "@",
         "url": "https://crm.zoho.eu/crm/org/search?searchword={q}",
         "comprobar": true
+      },
+      {
+        "nombre": "Ficha del local de «{q}»",
+        "patron": ".",
+        "url": "https://care.internal-apps.last.app/technical-support/ficha?q={q}"
       }
     ],
     "plantillas": [
