@@ -81,14 +81,6 @@
       "de": "fernando.poza@last.app"
     },
     {
-      "nombre": "Reportes",
-      "url": "https://care.internal-apps.last.app/technical-support/reportes",
-      "programa": "",
-      "desc": "",
-      "familia": "Soporte",
-      "de": "fernando.poza@last.app"
-    },
-    {
       "nombre": "Meet Front",
       "url": "https://meet.google.com/mzd-kfsn-how?authuser=0",
       "programa": "",
@@ -117,14 +109,6 @@
       "url": "https://cliq.zoho.eu/company/20069817554/index.do",
       "programa": "",
       "desc": "Chat interno",
-      "familia": "Equipo",
-      "de": "fernando.poza@last.app"
-    },
-    {
-      "nombre": "Turnos",
-      "url": "https://care.internal-apps.last.app/turnoff/",
-      "programa": "",
-      "desc": "",
       "familia": "Equipo",
       "de": "fernando.poza@last.app"
     },
@@ -183,6 +167,22 @@
       "desc": "",
       "familia": "Google",
       "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Reportes",
+      "url": "https://care.internal-apps.last.app/technical-support/reportes",
+      "programa": "",
+      "desc": "",
+      "familia": "Herramientas",
+      "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Turnos",
+      "url": "https://care.internal-apps.last.app/turnoff/",
+      "programa": "",
+      "desc": "",
+      "familia": "Herramientas",
+      "de": "fernando.poza@last.app"
     }
   ],
   "descargas": [
@@ -208,5 +208,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-07T09:06:21.688Z"
+  "actualizada": "2026-10-08T15:19:23.331Z"
 }
