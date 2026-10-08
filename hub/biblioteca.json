@@ -183,6 +183,14 @@
       "desc": "",
       "familia": "Herramientas",
       "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Ficha Cliente",
+      "url": "https://care.internal-apps.last.app/technical-support/ficha",
+      "programa": "",
+      "desc": "Toda la info del Restaurante",
+      "familia": "Herramientas",
+      "de": "fernando.poza@last.app"
     }
   ],
   "descargas": [
@@ -208,5 +216,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-08T15:19:23.331Z"
+  "actualizada": "2026-10-08T15:21:14.813Z"
 }
