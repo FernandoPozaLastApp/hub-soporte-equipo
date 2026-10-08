@@ -188,7 +188,7 @@
       "nombre": "Cliente",
       "url": "https://care.internal-apps.last.app/technical-support/ficha",
       "programa": "",
-      "desc": "Toda la info del Restaurante",
+      "desc": "",
       "familia": "Herramientas",
       "de": "fernando.poza@last.app"
     }
@@ -216,5 +216,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-08T15:24:44.737Z"
+  "actualizada": "2026-10-08T15:25:01.763Z"
 }
