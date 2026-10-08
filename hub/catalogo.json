@@ -1,6 +1,6 @@
 {
-  "version": 1791497390073,
-  "publicado": "2026-10-08T22:09:50.073Z",
+  "version": 1791497867545,
+  "publicado": "2026-10-08T22:17:47.545Z",
   "publicadoPor": "fernando.poza@last.app",
   "catalogo": {
     "titulo": "Hub de soporte",
@@ -244,7 +244,7 @@
         "comprobar": true
       },
       {
-        "nombre": "Ficha del local de «{q}»",
+        "nombre": "«{q}» en The Doctor",
         "patron": ".",
         "url": "https://care.internal-apps.last.app/technical-support/ficha?q={q}"
       }
