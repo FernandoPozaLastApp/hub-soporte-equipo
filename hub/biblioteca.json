@@ -177,7 +177,7 @@
       "de": "fernando.poza@last.app"
     },
     {
-      "nombre": "Turnos",
+      "nombre": "Turn Off",
       "url": "https://care.internal-apps.last.app/turnoff/",
       "programa": "",
       "desc": "",
@@ -216,5 +216,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-09T07:27:47.603Z"
+  "actualizada": "2026-10-09T07:28:21.716Z"
 }
