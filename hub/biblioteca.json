@@ -81,6 +81,14 @@
       "de": "fernando.poza@last.app"
     },
     {
+      "nombre": "Agente S",
+      "url": "https://customer.internal-apps.last.app/?view=agentLog",
+      "programa": "",
+      "desc": "",
+      "familia": "Soporte",
+      "de": "fernando.poza@last.app"
+    },
+    {
       "nombre": "Meet Front",
       "url": "https://meet.google.com/mzd-kfsn-how?authuser=0",
       "programa": "",
@@ -232,5 +240,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-14T07:46:09.194Z"
+  "actualizada": "2026-10-14T07:47:07.515Z"
 }
