@@ -1,6 +1,6 @@
 {
-  "version": 1791497867545,
-  "publicado": "2026-10-08T22:17:47.545Z",
+  "version": 1791964147958,
+  "publicado": "2026-10-14T07:49:07.958Z",
   "publicadoPor": "fernando.poza@last.app",
   "catalogo": {
     "titulo": "Hub de soporte",
@@ -13,18 +13,21 @@
             "nombre": "Ringover",
             "url": "https://app.ringover.com/inbox",
             "desc": "Centralita: llamadas, historial y grabaciones",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Ringover · Dashboard",
             "url": "https://dashboard.ringover.com/currentscalls",
             "desc": "Volumen de llamadas, tiempos de espera y perdidas",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Notas",
             "interno": "notas",
-            "desc": "Tablero de notas por columnas, dentro de la app"
+            "desc": "Tablero de notas por columnas, dentro de la app",
+            "fabrica": true
           }
         ]
       },
@@ -34,60 +37,69 @@
           {
             "nombre": "Software y drivers",
             "interno": "descargas",
-            "desc": "Programas y drivers de uso habitual, con sus enlaces de Drive"
+            "desc": "Programas y drivers de uso habitual, con sus enlaces de Drive",
+            "fabrica": true
           },
           {
             "nombre": "AnyDesk",
             "url": "anydesk:",
             "desc": "Control remoto del equipo del cliente (abre el programa)",
             "programa": "C:/Users/Usuario/Desktop/anydesk-5-5-3.exe",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Mis tickets",
             "url": "https://desk.last.app/agent/lastapp/support/tickets/q/duedate/all-cases",
             "desc": "Solo lo que tienes asignado y abierto",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Whatsapp",
             "url": "https://desk.last.app/agent/lastapp/support/im/page#IM/-1/sessions/all-all",
             "desc": "",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Help",
             "url": "https://help.last.app/",
             "desc": "Artículos de ayuda para pegar al cliente",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "CRM",
             "url": "https://crm.zoho.eu/crm/last/search?searchword=",
             "desc": "Ficha del cliente, plan contratado y contactos",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Support",
             "url": "https://support.last.app/",
             "desc": "Back-office para mirar la cuenta del local",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Learn",
             "url": "https://learn.last.app/team/last-cx",
             "desc": "",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Datadog",
             "url": "https://app.datadoghq.eu/logs",
             "desc": "",
+            "fabrica": true,
             "compartida": true
           },
           {
-            "nombre": "Reportes",
-            "url": "https://care.internal-apps.last.app/technical-support/reportes",
+            "nombre": "Agente S",
+            "url": "https://customer.internal-apps.last.app/?view=agentLog",
             "desc": "",
             "compartida": true
           }
@@ -100,12 +112,14 @@
             "nombre": "Meet Front",
             "url": "https://meet.google.com/mzd-kfsn-how?authuser=0",
             "desc": "",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Bookings",
             "url": "https://bookings.zoho.eu/",
             "desc": "Citas y huecos reservables",
+            "fabrica": true,
             "compartida": true
           }
         ]
@@ -117,18 +131,21 @@
             "nombre": "People",
             "url": "https://people.zoho.eu/",
             "desc": "",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Cliq",
             "url": "https://cliq.zoho.eu/company/20069817554/index.do",
             "desc": "Chat interno",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Turnos",
             "url": "https://care.internal-apps.last.app/turnoff/",
             "desc": "",
+            "fabrica": true,
             "compartida": true
           }
         ]
@@ -140,6 +157,7 @@
             "nombre": "Gemini IA",
             "url": "https://gemini.google.com/app",
             "desc": "",
+            "fabrica": true,
             "compartida": true
           }
         ]
@@ -151,6 +169,7 @@
             "nombre": "Glovo",
             "url": "https://docs.google.com/spreadsheets/d/1YesG3izxIDzDh54qsBNbPhTe8qSpfzY67EcYjAK2fso/edit?gid=1609757291#gid=1609757291",
             "desc": "",
+            "fabrica": true,
             "compartida": true
           }
         ]
@@ -162,30 +181,65 @@
             "nombre": "Drive",
             "url": "https://drive.google.com/",
             "desc": "Documentos compartidos",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Gmail",
             "url": "https://mail.google.com/",
             "desc": "Correo",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Meet",
             "url": "https://meet.google.com/home",
             "desc": "Abre una sala nueva al momento",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Calendar",
             "url": "https://calendar.google.com/",
             "desc": "Agenda del día",
+            "fabrica": true,
             "compartida": true
           },
           {
             "nombre": "Google",
             "url": "https://www.google.com/",
             "desc": "",
+            "fabrica": true,
+            "compartida": true
+          }
+        ]
+      },
+      {
+        "nombre": "Herramientas",
+        "enlaces": [
+          {
+            "nombre": "The Tailor",
+            "url": "https://care.internal-apps.last.app/technical-support/reportes",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Turn Off",
+            "url": "https://care.internal-apps.last.app/turnoff/",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "The Doctor",
+            "url": "https://care.internal-apps.last.app/technical-support/ficha",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Reportes",
+            "url": "https://care.internal-apps.last.app/technical-support/reportes",
+            "desc": "",
+            "fabrica": true,
             "compartida": true
           }
         ]
