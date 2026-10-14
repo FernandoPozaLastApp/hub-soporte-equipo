@@ -1,6 +1,6 @@
 {
-  "version": 1791964147958,
-  "publicado": "2026-10-14T07:49:07.958Z",
+  "version": 1791965838700,
+  "publicado": "2026-10-14T08:17:18.700Z",
   "publicadoPor": "fernando.poza@last.app",
   "catalogo": {
     "titulo": "Hub de soporte",
@@ -233,13 +233,6 @@
             "nombre": "The Doctor",
             "url": "https://care.internal-apps.last.app/technical-support/ficha",
             "desc": "",
-            "compartida": true
-          },
-          {
-            "nombre": "Reportes",
-            "url": "https://care.internal-apps.last.app/technical-support/reportes",
-            "desc": "",
-            "fabrica": true,
             "compartida": true
           }
         ]
