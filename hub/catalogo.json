@@ -1,6 +1,6 @@
 {
-  "version": 1791965838700,
-  "publicado": "2026-10-14T08:17:18.700Z",
+  "version": 1792146307825,
+  "publicado": "2026-10-16T10:25:07.825Z",
   "publicadoPor": "fernando.poza@last.app",
   "catalogo": {
     "titulo": "Hub de soporte",
@@ -224,14 +224,26 @@
             "compartida": true
           },
           {
+            "nombre": "The Doctor",
+            "url": "https://care.internal-apps.last.app/technical-support/ficha",
+            "desc": "",
+            "compartida": true
+          },
+          {
             "nombre": "Turn Off",
             "url": "https://care.internal-apps.last.app/turnoff/",
             "desc": "",
             "compartida": true
           },
           {
-            "nombre": "The Doctor",
-            "url": "https://care.internal-apps.last.app/technical-support/ficha",
+            "nombre": "The Oracle",
+            "url": "https://care.internal-apps.last.app/oraculo",
+            "desc": "",
+            "compartida": true
+          },
+          {
+            "nombre": "Sherlock Bones",
+            "url": "https://care.internal-apps.last.app/technical-support/pedidos",
             "desc": "",
             "compartida": true
           }
