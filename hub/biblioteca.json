@@ -193,6 +193,14 @@
       "de": "fernando.poza@last.app"
     },
     {
+      "nombre": "The Doctor",
+      "url": "https://care.internal-apps.last.app/technical-support/ficha",
+      "programa": "",
+      "desc": "",
+      "familia": "Herramientas",
+      "de": "fernando.poza@last.app"
+    },
+    {
       "nombre": "Turn Off",
       "url": "https://care.internal-apps.last.app/turnoff/",
       "programa": "",
@@ -201,8 +209,8 @@
       "de": "fernando.poza@last.app"
     },
     {
-      "nombre": "The Doctor",
-      "url": "https://care.internal-apps.last.app/technical-support/ficha",
+      "nombre": "Nueva herramienta",
+      "url": "https://care.internal-apps.last.app/oraculo",
       "programa": "",
       "desc": "",
       "familia": "Herramientas",
@@ -232,5 +240,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-14T08:16:43.710Z"
+  "actualizada": "2026-10-16T10:22:06.337Z"
 }
