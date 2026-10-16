@@ -215,6 +215,14 @@
       "desc": "",
       "familia": "Herramientas",
       "de": "fernando.poza@last.app"
+    },
+    {
+      "nombre": "Sherlock Bones",
+      "url": "https://care.internal-apps.last.app/technical-support/pedidos",
+      "programa": "",
+      "desc": "",
+      "familia": "Herramientas",
+      "de": "fernando.poza@last.app"
     }
   ],
   "descargas": [
@@ -240,5 +248,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-16T10:22:43.300Z"
+  "actualizada": "2026-10-16T10:23:56.410Z"
 }
