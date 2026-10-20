@@ -19,7 +19,7 @@
     {
       "nombre": "AnyDesk",
       "url": "anydesk:",
-      "programa": "C:/Users/Usuario/Desktop/anydesk-5-5-3.exe",
+      "programa": "anydesk-5-5-3.exe",
       "desc": "Control remoto del equipo del cliente (abre el programa)",
       "familia": "Soporte",
       "de": "fernando.poza@last.app"
@@ -248,5 +248,5 @@
       "de": "fernando.poza@last.app"
     }
   ],
-  "actualizada": "2026-10-20T08:08:07.818Z"
+  "actualizada": "2026-10-20T11:30:05.480Z"
 }
